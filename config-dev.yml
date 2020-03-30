@@ -1,1 +1,2 @@
-dev
+config:
+  info: "maste breanch,springcloud-config/config-dev.yml version=1"
